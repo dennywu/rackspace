@@ -1,0 +1,136 @@
+﻿[
+                    {
+                        "OS-DCF:diskConfig": "AUTO",
+                        "OS-EXT-STS:power_state": 1,
+                        "OS-EXT-STS:task_state": null,
+                        "OS-EXT-STS:vm_state": "active",
+                        "RAX-SI:image_schedule": {
+                            "retention": 3
+                        },
+                        "accessIPv4": "5.79.23.47",
+                        "accessIPv6": "2a00:1a48:7805:112:dc21:7ec0:ff08:4bb4",
+                        "addresses": {
+                            "private": [
+                                            {
+                                                "addr": "10.179.3.116",
+                                                "version": 4
+                                            }
+                                            ],
+                            "public": [
+                                            {
+                                                "addr": "5.79.23.47",
+                                                "version": 4
+                                            },
+                                            {
+                                                "addr": "2a00:1a48:7805:0112:dc21:7ec0:ff08:4bb4",
+                                                "version": 6
+                                            }
+                                       ]
+                        },
+                        "created": "2013-04-04T20:10:30Z",
+                        "flavor": {
+                            "id": "2",
+                            "links": [
+                                    {
+                                        "href": "https://lon.servers.api.rackspacecloud.com/10099999/flavors/2",
+                                        "rel": "bookmark"
+                                    }
+                            ]
+                        },
+                        "hostId": "8db66bfe16771e6505e87ced4d8f5a23916faf3105c7837eae12daba",
+                        "id": "4aad5702-b54a-4190-9953-966805a61a4b",
+                        "image": {
+                            "id": "c195ef3b-9195-4474-b6f7-16e5bd86acd0",
+                            "links": [
+                                        {
+                                            "href": "https://lon.servers.api.rackspacecloud.com/10099999/images/c195ef3b-9195-4474-b6f7-16e5bd86acd0",
+                                            "rel": "bookmark"
+                                        }
+                                     ]
+                        },
+                        "links": [
+                                    {
+                                        "href": "https://lon.servers.api.rackspacecloud.com/v2/10099999/servers/4aad5702-b54a-4190-9953-966805a61a4a",
+                                        "rel": "self"
+                                    },
+                                    {
+                                        "href": "https://lon.servers.api.rackspacecloud.com/10099999/servers/4aad5702-b54a-4190-9953-966805a61a4a",
+                                        "rel": "bookmark"
+                                    }
+                                 ],
+                        "metadata": {},
+                        "name": "linux-server",
+                        "progress": 100,
+                        "status": "ACTIVE",
+                        "tenant_id": "10099999",
+                        "updated": "2013-06-03T17:29:46Z",
+                        "user_id": "12345"
+                    },
+					{
+                        "OS-DCF:diskConfig": "AUTO",
+                        "OS-EXT-STS:power_state": 1,
+                        "OS-EXT-STS:task_state": null,
+                        "OS-EXT-STS:vm_state": "active",
+                        "RAX-SI:image_schedule": {
+                            "retention": 3
+                        },
+                        "accessIPv4": "5.79.23.47",
+                        "accessIPv6": "2a00:1a48:7805:112:dc21:7ec0:ff08:4bb4",
+                        "addresses": {
+                            "private": [
+                                            {
+                                                "addr": "10.179.3.116",
+                                                "version": 4
+                                            }
+                                            ],
+                            "public": [
+                                            {
+                                                "addr": "5.79.23.47",
+                                                "version": 4
+                                            },
+                                            {
+                                                "addr": "2a00:1a48:7805:0112:dc21:7ec0:ff08:4bb4",
+                                                "version": 6
+                                            }
+                                       ]
+                        },
+                        "created": "2013-04-04T20:10:30Z",
+                        "flavor": {
+                            "id": "2",
+                            "links": [
+                                    {
+                                        "href": "https://lon.servers.api.rackspacecloud.com/10099999/flavors/2",
+                                        "rel": "bookmark"
+                                    }
+                            ]
+                        },
+                        "hostId": "8db66bfe16771e6505e87ced4d8f5a23916faf3105c7837eae12daba",
+                        "id": "4aad5702-b54a-4190-9953-966805a61a4a",
+                        "image": {
+                            "id": "c195ef3b-9195-4474-b6f7-16e5bd86acd0",
+                            "links": [
+                                        {
+                                            "href": "https://lon.servers.api.rackspacecloud.com/10099999/images/c195ef3b-9195-4474-b6f7-16e5bd86acd0",
+                                            "rel": "bookmark"
+                                        }
+                                     ]
+                        },
+                        "links": [
+                                    {
+                                        "href": "https://lon.servers.api.rackspacecloud.com/v2/10099999/servers/4aad5702-b54a-4190-9953-966805a61a4a",
+                                        "rel": "self"
+                                    },
+                                    {
+                                        "href": "https://lon.servers.api.rackspacecloud.com/10099999/servers/4aad5702-b54a-4190-9953-966805a61a4a",
+                                        "rel": "bookmark"
+                                    }
+                                 ],
+                        "metadata": {},
+                        "name": "linux-server",
+                        "progress": 100,
+                        "status": "ACTIVE",
+                        "tenant_id": "10099999",
+                        "updated": "2013-06-03T17:29:46Z",
+                        "user_id": "12345"
+                    }
+                ]

@@ -1,0 +1,44 @@
+﻿table.list-servers
+{
+    border: none;
+}
+
+    table.list-servers tr th
+    {
+        background-color: #48b011;
+        color: #fff;
+        padding: 3px 10px;
+    }
+
+.detail-server
+{
+    float: left;
+    position: relative;
+}
+
+    .detail-server div > div
+    {
+        float: left;
+    }
+
+        .detail-server div > div:first-child
+        {
+            min-width: 120px;
+        }
+
+            .detail-server div > div:first-child::after
+            {
+                content: ' : ';
+                float: right;
+            }
+
+        .detail-server div > div:last-child
+        {
+            margin-left: 10px;
+            font-weight: bold;
+        }
+
+    .detail-server > div
+    {
+        margin: 5px 0px;
+    }
